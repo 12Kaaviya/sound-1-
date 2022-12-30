@@ -1,0 +1,14 @@
+
+p {
+    font-size: medium;
+    font-style: initial;
+}
+
+body {
+    background-color: rgb(241, 225 , 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer {
+    align-content: center;
+}
